@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.WearAppCompat" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="colorPrimary">@android:color/holo_blue_light</item>
+        <item name="colorPrimaryVariant">@android:color/holo_blue_dark</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+    </style>
+</resources>
